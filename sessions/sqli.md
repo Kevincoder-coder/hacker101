@@ -26,7 +26,7 @@ What you'll learn
 	- The types of blind SQLi
 	- Exploiting blind
 
-Video
+Videos
 -----
 
 <div class="container">
